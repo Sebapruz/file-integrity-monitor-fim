@@ -47,7 +47,7 @@ El proyecto está desarrollado en **Python 3.x** y utiliza las siguientes librer
 Clona el repositorio y entra en la carpeta del proyecto:
 
 ```bash
-git clone https://github.com/tu_usuario/file-integrity-monitor-fim.git
+git clone https://github.com/Sebapruz/file-integrity-monitor-fim.git
 cd file-integrity-monitor-fim
 ```
 Configura el directorio a monitorear:
